@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "mongodb": "^3.6.6",
+    "mqtt": "^4.3.7",
     "path": "^0.12.7",
     "ws": "^7.4.4"
   }
